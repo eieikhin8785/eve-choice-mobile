@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Eve Choice",
+    "slug": "eve-choice",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": { "backgroundColor": "#f7f8f5" },
+    "assetBundlePatterns": ["**/*"]
+  }
+}
+
